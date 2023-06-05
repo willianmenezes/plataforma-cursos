@@ -5,7 +5,7 @@ Essa aplicacao tem como objetivo disponibilizar cursos online, sejam eles gratui
 Com a plataforma poderemos disponibilizar varias modalidades de acesso aos cursos para os alunos, dentre elas teremos: 
 
 - Planos mensais, semestrais, anuais e customizados.
-- Compra de formacoes individuais (varios cursos dentro da formacao)
+- Compra de formacoes individuais (varios cursos dentro de uma formacao)
 - Compra de curso individual
 
 Os alunos sao livres para escolher a modalidade que se encaixa melhor ao seu perfil.
@@ -16,17 +16,17 @@ Os alunos sao livres para escolher a modalidade que se encaixa melhor ao seu per
 
 1. Deve ser disponibilizado uma pagina para que os usuarios do sistemas possam visualizar o catalogo de cursos da plataforma, esse catalogo de curso pode ser filtrado por categoria e sua visualizacao pode ser paginada.
 
-2. Para usuarios que possuem curso em andamento deve ser dispobilizada uma visualizacao separada dos cursos em andamento desse usuario.
+2. Para usuarios que possuam curso em andamento deve ser dispobilizada uma visualizacao separada dos cursos em andamento desse usuario.
 
-3. Para usuarios que possuem curso em andamento, ao visualizar o catalogo dos cursos, deve aparecer um indicador de quanto em porcentagem esse curso esta concluido.
+3. Para usuarios que possuam curso em andamento, ao visualizar o catalogo dos cursos, deve aparecer um indicador de quanto em porcentagem esse curso esta concluido.
 
-4. Para usuarios que possuem cursos finalizados deve ser disponibilizada uma visualizacao separada dos cursos finalizados desse usuario.
+4. Para usuarios que possuam cursos finalizados deve ser disponibilizada uma visualizacao separada dos cursos finalizados desse usuario.
 
 5. O curso deve ter um indicador de dificuldade, uma sugestao seria (iniciante, intermediario e avancado).
 
 6. O curso deve contem uma imagem de banner.
 
-7. Ao exibir o catalogo de cursos, se o usuario nao estiver autenticado, nao possuir planos pagos, carreiras pagas e cursos pagos, deve aparecer o valor dos respectivos itens para esse usuario.
+7. Ao exibir o catalogo de cursos, se o usuario nao estiver autenticado, nao possuir planos pagos, carreiras pagas e cursos pagos, deve aparecer o valor de compra dos respectivos itens para esse usuario.
 
 8. Quando cursos gratuitos forem exibidos, deve conter a descricao "gratuito".
 
@@ -51,11 +51,11 @@ Os alunos sao livres para escolher a modalidade que se encaixa melhor ao seu per
 
 2. Se o usuario possuiu o curso, seja ele por plano, compra de carreira ou campra de curso, ele podera acessar as aulas.
 
-3. Se o usuario nao possui o curso, esta disponivel uma opcao de compra.
+3. Se o usuario nao possui o curso, deve estar disponivel uma opcao de compra.
 
 ### **Visualizacao das aulas do curso**
 
-Para usuarios que possuem alguma forma de acesso aos cursos, pagos, gratuitos, ou planos. Podera acessar a area de visualizacao de aulas do curso.
+Para usuarios que possuam alguma forma de acesso aos cursos, pagos, gratuitos, ou planos. Podera acessar a area de visualizacao de aulas do curso.
 
 1. A visualizacao das aulas devera ser separada por modulos
 
