@@ -95,9 +95,9 @@ Para usuarios que possuam alguma forma de acesso aos cursos, pagos, gratuitos, o
 
     Exemplo: 
         
-        Curso pago -> Validade 10/05/2024
-        Novo plano adquirido -> Validade 10/12/2023
-        O usuario podera assistir todos os cursos e carreiras ate a data de 10/12/2023, depois dessa data, apenas o curso adquirido anteriormente com validade ate 10/05/2024 estara disponivel para o usuario.
+    - Curso pago -> Validade 10/05/2024
+    - Novo plano adquirido -> Validade 10/12/2023
+    - O usuario podera assistir todos os cursos e carreiras ate a data de 10/12/2023, depois dessa data, apenas o curso adquirido anteriormente com validade ate 10/05/2024 estara disponivel para o usuario.
 
 - A regra acima tambem serve par um usuario que possui um curso e quer adquirir uma carreira.
 
@@ -140,6 +140,8 @@ Para usuarios que possuam alguma forma de acesso aos cursos, pagos, gratuitos, o
 2. Para realizar o login na plataforma o usuario devera informar email e senha.
 
 3. O usuario podera acessar a plataforma realizando o login com redes sociais como: google e github.
+
+4. Caso o usuario esquecer a senha, devera ser enviado um email para recuperacao de senha.
 
 
 ## **Outras funcionalidades**
