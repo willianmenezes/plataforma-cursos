@@ -53,6 +53,8 @@ Os alunos sao livres para escolher a modalidade que se encaixa melhor ao seu per
 
 3. Se o usuario nao possui o curso, deve estar disponivel uma opcao de compra.
 
+4. Todo curso pode conter uma aula de introdução que fica disponível para todos os usuarios, onde nessa aula é dado um resumo do curso.
+
 ### **Visualizacao das aulas do curso**
 
 Para usuarios que possuam alguma forma de acesso aos cursos, pagos, gratuitos, ou planos. Podera acessar a area de visualizacao de aulas do curso.
