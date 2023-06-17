@@ -1,0 +1,20 @@
+POST {{url}}/auth/logar
+Content-Type: application/json
+
+{
+  "email": "willian@hotmail.com",
+  "senha": "123"
+}
+###
+
+POST {{url}}/auth/registrar
+Content-Type: application/json
+
+{
+  "nome": "Willian",
+  "email": "willian@hotmail.com",
+  "data_nascimento": "1995-10-29",
+  "senha": "123"
+}
+
+###
